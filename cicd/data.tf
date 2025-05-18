@@ -19,7 +19,6 @@ data "aws_ami" "ami_info" {
         values = ["hvm"]
     }
 }
-
 data "aws_ami" "nexus_ami_info" {
 
     most_recent = true
@@ -40,3 +39,4 @@ data "aws_ami" "nexus_ami_info" {
         values = ["hvm"]
     }
 }
+
