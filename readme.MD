@@ -6,6 +6,7 @@
 * Pipeline Utility Steps
 * Nexus Artifact Uploader
 * Rebuild
+* SonarQube Scanner
 
 Restart Jenkins once plugins are installed
 
